@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.theout {
+  background-color: #ffffff;
+  height: 100vh;
+  width: 100vw;
+  background-size: cover;
+}
+.inner {
+  height: 25vh;
+  width: 50vw;
+  background-color: black;
+  color: #ffffff;
+}
+.innerwhite {
+  height: 25vh;
+  width: 50vw;
+  background-color: #ffffff;
+  color: black;
+}
+.thebuttons {
+  height: 40px;
+  width: 85px;
+  background-color: #ffffff;
+  color: black;
+}
